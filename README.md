@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gizem TURAK
+- 👀 I’m interested in computer programming.
+- 🌱 I’m currently learning front-end web development.
+- 📫 How to reach me gizemturak@gmail.com
